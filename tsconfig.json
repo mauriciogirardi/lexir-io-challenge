@@ -22,7 +22,8 @@
       "@settings/*": ["src/settings/*"],
       "@styles/*": ["src/styles/*"],
       "@utils/*": ["src/utils/*"],
-      "@assets/*": ["src/assets/*"]
+      "@assets/*": ["src/assets/*"],
+      "@layout/*": ["src/layout/*"]
     },
     "incremental": true
   },
